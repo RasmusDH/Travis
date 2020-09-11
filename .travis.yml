@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/RasmusDH/Travis.svg?branch=master)](https://travis-ci.com/RasmusDH/Travis)
 language: java
 
 jdk: oraclejdk8
